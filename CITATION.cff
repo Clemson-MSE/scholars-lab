@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+authors:
+- family-names: "Schiller"
+  given-names: "Ulf D."
+  orcid: "https://orcid.org/0000-0001-8941-1284"
+title: "scholars-lab"
+version: 1.0.0
+date-released: 2022-03-30
+url: "https://github.com/Clemson-MSE/scholars-lab"
