@@ -1,0 +1,3 @@
+[submodule "src/lammps"]
+	path = src/lammps
+	url = git@github.com:Clemson-MSE/lammps.git
